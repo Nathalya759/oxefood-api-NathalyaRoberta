@@ -6,9 +6,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-
-
-@SpringBootApplication
 public class OxefoodApiNathalyaRobertaApplication {
 
 	public static void main(String[] args) {
